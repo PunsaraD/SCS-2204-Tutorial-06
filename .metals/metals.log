@@ -1,0 +1,3 @@
+2022.09.06 00:33:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\User\Desktop\Assignment\2204\Tutoriall 06\.metals\lsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.06 00:33:03 INFO  logging to file C:\Users\User\Desktop\Assignment\2204\Tutoriall 06\.metals\metals.log
+2022.09.06 00:33:03 INFO  Started: Metals version 0.11.8 in workspace 'C:\Users\User\Desktop\Assignment\2204\Tutoriall 06' for client Visual Studio Code 1.71.0.
